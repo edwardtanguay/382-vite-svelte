@@ -1,0 +1,22 @@
+[
+  {
+    "name":"React",
+    "description":"A JavaScript library for building user interfaces.",
+    "website":"https://reactjs.org/"
+  },
+  {
+    "name":"Angular",
+    "description":"A platform for building web applications.",
+    "website":"https://angular.io/"
+  },
+  {
+    "name":"Vue.js",
+    "description":"A progressive JavaScript framework for building interactive web interfaces.",
+    "website":"https://vuejs.org/"
+  },
+  {
+    "name":"Ember.js",
+    "description":"A JavaScript framework for building ambitious web applications.",
+    "website":"https://emberjs.com/"
+  }
+]
